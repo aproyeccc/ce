@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "nike-fashion",
+    "source": "3836aa8a-73a5-468a-bc72-b45da42785b8(1).png",
+    "original_dimensions": [
+      1024,
+      1536
+    ],
+    "output": "nike-fashion.webp",
+    "output_size": 83396
+  },
+  {
+    "slug": "zara-figurine",
+    "source": "d6f62f2b-74fd-466e-9e84-39d89bc6d503 (1).png",
+    "original_dimensions": [
+      1122,
+      1402
+    ],
+    "output": "zara-figurine.webp",
+    "output_size": 154736
+  },
+  {
+    "slug": "ahlba-chrome",
+    "source": "ChatGPT Image Sep 30, 2026, 12_26_54 PM.png",
+    "original_dimensions": [
+      1084,
+      1451
+    ],
+    "output": "ahlba-chrome.webp",
+    "output_size": 208888
+  },
+  {
+    "slug": "betr-pattern",
+    "source": "Patrón Premium de Barras Betr(1).png",
+    "original_dimensions": [
+      1086,
+      1448
+    ],
+    "output": "betr-pattern.webp",
+    "output_size": 193662
+  },
+  {
+    "slug": "betr-packaging",
+    "source": "Barra de proteína sabor brownie(3).png",
+    "original_dimensions": [
+      1448,
+      1086
+    ],
+    "output": "betr-packaging.webp",
+    "output_size": 68424
+  },
+  {
+    "slug": "betr-tray",
+    "source": "Premium Protein Bar on Silver Serving Tray(1).png",
+    "original_dimensions": [
+      1448,
+      1086
+    ],
+    "output": "betr-tray.webp",
+    "output_size": 66338
+  },
+  {
+    "slug": "fashion-duo",
+    "source": "335c213fe8ee69d59205c908066d54f2(1).jpg",
+    "original_dimensions": [
+      736,
+      981
+    ],
+    "output": "fashion-duo.webp",
+    "output_size": 38936
+  },
+  {
+    "slug": "betr-golf",
+    "source": "cbfcaedd-3f2a-4fb5-ad2b-387aa3420fdc(1).png",
+    "original_dimensions": [
+      1086,
+      1448
+    ],
+    "output": "betr-golf.webp",
+    "output_size": 804800
+  },
+  {
+    "slug": "ahlba-punk",
+    "source": "25939578-2e9d-4fa8-a984-e1f80bd504ab.png",
+    "original_dimensions": [
+      1122,
+      1402
+    ],
+    "output": "ahlba-punk.webp",
+    "output_size": 122734
+  },
+  {
+    "slug": "ahlba-profile",
+    "source": "23a6bcd8-cd49-4400-a88a-520f593e4fa4 (1).png",
+    "original_dimensions": [
+      1122,
+      1402
+    ],
+    "output": "ahlba-profile.webp",
+    "output_size": 110310
+  },
+  {
+    "slug": "ahlba-minifigure",
+    "source": "8e444bb9-6021-4e09-b340-579ff4b595ed.png",
+    "original_dimensions": [
+      1122,
+      1402
+    ],
+    "output": "ahlba-minifigure.webp",
+    "output_size": 267966
+  },
+  {
+    "slug": "smp-packaging",
+    "source": "e157e029-9a10-442f-a7fb-4a2b90c21d2c(1).png",
+    "original_dimensions": [
+      941,
+      1672
+    ],
+    "output": "smp-packaging.webp",
+    "output_size": 82890
+  }
+]
